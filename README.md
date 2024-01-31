@@ -3,7 +3,7 @@
 
 This repository contains a Jupyter notebook that outlines the process of building and training a Convolutional Neural Network (CNN) to recognize handwritten digits using the MNIST dataset.
 
-# Prerequisites
+**Prerequisites**
 
 To run the notebook, you need the following installed:
 Python 3.x
