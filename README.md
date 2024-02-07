@@ -30,7 +30,5 @@ Evaluate the model's performance using the provided classification report, which
 **Results**
 The model achieves high accuracy and excellent classification metrics across all digit classes.
 
-**License**
-This project is open-source and available under the MIT License.
 
 This README provides a concise guide on how to set up, run, and understand the project. You can add it to the root of your Git repository to help users navigate and utilize the OCR MNIST notebook. Adjust the content as necessary to match the specific aspects of your project and repository structure.
